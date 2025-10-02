@@ -1,4 +1,4 @@
-# ForgeCore Protocol 🔥
+# ScorchCore Protocol 🔥
 
 ![Banner del Proyecto](URL_DE_TU_BANNER)  **ForgeCore Protocol es el protocolo que recicla Axies infrautilizados, convierte NFTs en mascotas mineras productivas y establece una economía circular deflacionaria en Ronin, con fuertes medidas anti-bot y gobernanza comunitaria.**
 
@@ -6,7 +6,7 @@
 
 ## 🎯 Visión y Oportunidad
 
-Tras eras de batallas, millones de Axies yacen en un estado de "Eco-Estasis", con su potencial energético atrapado (Fuente: 98). ForgeCore Protocol aborda directamente este problema transformando estos activos inactivos en **CoreMiners**: nuevos compañeros NFT productivos a través de un proceso de transmutación alquímica. (Fuente: 241)
+Tras eras de batallas, millones de Axies yacen en un estado de "Eco-Estasis", con su potencial energético atrapado (Fuente: 98). ScorchCore Protocol aborda directamente este problema transformando estos activos inactivos en **CoreMiners**: nuevos compañeros NFT productivos a través de un proceso de transmutación alquímica. (Fuente: 241)
 
 Nuestra solución ataca tres desafíos clave del ecosistema Ronin:
 * **Sobreoferta de Activos (NFT Over-Supply):** Implementamos "Burn-to-Earn" para revalorizar Axies. (Fuente: 244, 2597)
@@ -15,7 +15,7 @@ Nuestra solución ataca tres desafíos clave del ecosistema Ronin:
 
 ## 🤝 Alineación Estratégica con Ronin
 
-ForgeCore Protocol no es un proyecto aislado, sino un **catalizador diseñado para generar transacciones significativas, revitalizar activos existentes y atraer nuevos usuarios al ecosistema Ronin.** (Fuente: 40, 286)
+ScorchCore Protocol no es un proyecto aislado, sino un **catalizador diseñado para generar transacciones significativas, revitalizar activos existentes y atraer nuevos usuarios al ecosistema Ronin.** (Fuente: 40, 286)
 
 * **Generación de Actividad On-Chain:** Cada mecánica (fusión, staking, crafteo) se traduce en transacciones. Proyectamos generar más de 100,000 transacciones mensuales. (Fuente: 42, 1276)
 * **Reducción de Oferta de Axies:** Nuestro objetivo es facilitar la quema de 500,000 Axies en el primer año. (Fuente: 43, 1276)
